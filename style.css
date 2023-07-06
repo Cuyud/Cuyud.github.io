@@ -107,8 +107,8 @@ p {
 
 /* teks paragraf */
 .container {
+  height: auto;
   width: 350px;
-  height: 100px;
   /* height: 100%;
   width: 100%; */
   justify-content: center;
