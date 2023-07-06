@@ -56,7 +56,7 @@ class TextScramble {
 // Example
 // ——————————————————————————————————————————————————
 // const phrases = ['Gak perlu bahu buat bersandar', 'cuma perlu nonton', "One Piece!"];
-const phrases = ['Ovsemedia,', 'sooner or later', "you're going to realize", 'just as I did', "that there's a difference", 'between knowing the path', 'and walking the path'];
+const phrases = ['Wahyudi,', 'sooner or later', "you're going to realize", 'just as I did', "that there's a difference", 'between knowing the path', 'and walking the path'];
 
 const el = document.querySelector('.text');
 const fx = new TextScramble(el);
